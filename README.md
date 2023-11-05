@@ -1,3 +1,7 @@
+# Web Application
+
+https://test.synergist.kiev.ua/cassini/#
+
 # LSTM Time Series Forecasting
 
 This code demonstrates how to use Long Short-Term Memory (LSTM) neural networks to forecast time series data. The example provided uses Python with libraries such as NumPy, Pandas, Matplotlib, Scikit-Learn, and TensorFlow.
