@@ -1,0 +1,23 @@
+{"panels":[
+	{
+		"brand": "SunPower",
+		"model": "MAXEON",
+		"image": "sun-power-maxeon.png",
+		"price": "181.79",
+		"efficiency": "0.226"
+	},
+	{
+		"brand": "Jinko Solar",
+		"model": "Tiger",
+		"image": "jinko-solar-tiger.png",
+		"price": "77.58",
+		"efficiency": "0.2138"
+	},
+	{
+		"brand": "Trina Solar",
+		"model": "ALLMAX",
+		"image": "trina-solar-allmax.png",
+		"price": "71.03",
+		"efficiency": "0.197"
+	}
+]}
